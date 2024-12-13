@@ -1,0 +1,2 @@
+# learning-web-dev
+ learning-web-dev é um repositório dedicado ao meu aprendizado contínuo de HTML, CSS, JavaScript. Aqui, compartilho meus projetos e experimentos enquanto exploro o mundo do desenvolvimento web. O objetivo é consolidar o conhecimento das principais tecnologias de front-end, criando páginas e funcionalidades interativas, além de desenvolver uma compreensão profunda das boas práticas e ferramentas da área. Este repositório reflete minha jornada na construção de habilidades para me tornar um desenvolvedor web completo.
