@@ -3,6 +3,11 @@ body {
     font: 16px Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    color: rgb(130, 130, 113);
+    font-size: 1.2em;
+}
+
 #principal {
     width: 900px;
 }
@@ -26,4 +31,7 @@ body {
 
 .centralizar {
     text-align: center;
+}
+.img-campanha {
+    border: 10px solid rgb(195, 195, 174);
 }
