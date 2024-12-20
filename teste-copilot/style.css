@@ -1,0 +1,34 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #034030;
+    height: 135px;
+}
+
+header a {
+    color: white;
+}
+
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+        width: 100%;
+        flex-direction: column;
+    }
+
+#logo {
+    width: 100%;
+    max-width: 87%;
+    height: 117px;
+    object-fit: contain;
+    object-position: center center;
+}
+
+#menu-ul{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
